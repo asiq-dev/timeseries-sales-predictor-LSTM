@@ -2,6 +2,9 @@
 
 This project predicts Microsoft stock closing prices using an LSTM (Long Short-Term Memory) neural network built with TensorFlow/Keras.
 
+## Diagram
+![LSTM Stock Prediction Diagram](diagram.png)
+
 ## Features
 - Loads historical Microsoft stock data from CSV
 - Preprocesses and scales the data
